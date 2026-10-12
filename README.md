@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1219-path-with-maximum-gold](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/1219-path-with-maximum-gold) |
@@ -29,9 +30,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
