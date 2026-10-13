@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
