@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1219-path-with-maximum-gold](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/1219-path-with-maximum-gold) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Dynamic Programming
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
