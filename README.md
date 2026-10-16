@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1219-path-with-maximum-gold](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/1219-path-with-maximum-gold) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
