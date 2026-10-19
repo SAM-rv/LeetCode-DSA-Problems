@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0389-find-the-difference](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
