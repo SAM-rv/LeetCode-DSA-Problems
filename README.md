@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0389-find-the-difference) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
