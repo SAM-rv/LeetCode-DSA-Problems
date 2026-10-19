@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0931-minimum-falling-path-sum](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1219-path-with-maximum-gold](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/1219-path-with-maximum-gold) |
 ## Hash Table
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAM-rv/LeetCode-DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
